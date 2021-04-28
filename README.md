@@ -12,7 +12,7 @@
 
 ![pic](lucy.jpg)
 
-[![bilibili](https://i0.hdslb.com/bfs/feed-admin/b58399c1104396f35e83851a3a9299a4291e39c1.png "bilibili")](https://www.bilibili.com/)
+[![bilibili](https://i0.hdslb.com/bfs/vc/c1e19150b5d1e413958d45e0e62f012e3ee200af.png "bilibili")](https://www.bilibili.com/)
 
 ```c++
 #include <iostream>

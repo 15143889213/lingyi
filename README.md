@@ -8,9 +8,9 @@
 
 [github](https://github.com/)
 
-[jump to link.md](link.md)
+[jump to README2.md](README2.md)
 
-![pic](LittlePenguin.jpg)
+![pic](Lucy.jpg)
 
 [![bilibili](https://i0.hdslb.com/bfs/feed-admin/b58399c1104396f35e83851a3a9299a4291e39c1.png "bilibili")](https://www.bilibili.com/)
 
